@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: terra
+  name: pythonpool
 
 steps:
 
